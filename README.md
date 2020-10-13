@@ -18,4 +18,12 @@ Arduino Mega needs additional MAX485 module:
 
 ![](https://github.com/maroprjs/Modbus/blob/main/extras/MAX485-Module.jpg) 
 
+
+
+Like this:
+
+![](https://github.com/maroprjs/Modbus/blob/main/extras/arduinoRS485.png)
+
+
+
 **[www.controllino.biz](http://www.controllino.biz) & https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library
